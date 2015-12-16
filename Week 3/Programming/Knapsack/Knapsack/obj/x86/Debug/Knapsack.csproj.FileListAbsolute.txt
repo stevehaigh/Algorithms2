@@ -1,0 +1,5 @@
+C:\Users\PC2\SkyDrive\Stanford\Algo2\Week 3\Programming\Knapsack\Knapsack\bin\Debug\Knapsack.exe
+C:\Users\PC2\SkyDrive\Stanford\Algo2\Week 3\Programming\Knapsack\Knapsack\bin\Debug\Knapsack.pdb
+C:\Users\PC2\SkyDrive\Stanford\Algo2\Week 3\Programming\Knapsack\Knapsack\obj\x86\Debug\Knapsack.exe
+C:\Users\PC2\SkyDrive\Stanford\Algo2\Week 3\Programming\Knapsack\Knapsack\obj\x86\Debug\Knapsack.pdb
+C:\Users\PC2\SkyDrive\Stanford\Algo2\Week 3\Programming\Knapsack\Knapsack\obj\x86\Debug\Knapsack.csprojResolveAssemblyReference.cache
